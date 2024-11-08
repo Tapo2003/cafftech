@@ -552,7 +552,7 @@
                                             <div class="account-form-item mb-20">
                                                 <div class="row" id="yesoption">
                                                     <div class="account-form-label">
-                                                        <label>If yes, which institution and why did you leave?</label>
+                                                        <label>If yes, which institution and why did you leave? <span style= "color:red;font-size:15px">Academic History Reason</span></label>
                                                     </div>
                                                     <div class="account-form-input">
                                                         <input type="text" id="academichistoryreason" name="academichistoryreason" placeholder="Why you left your previous institution">
@@ -580,7 +580,7 @@
                                                     <div>                                                                                       
                                                     <div class="col-lg-6 col-md-6 col-sm-12">
                                                         <div class="account-form-label">
-                                                            <label>From</label>
+                                                            <label>From 1</label>
                                                         </div>                                                           
                                                         <div class="account-form-input">
                                                             <input type="date" id="from1" name="from[]">
@@ -588,7 +588,7 @@
                                                     </div>
                                                     <div class="col-lg-6 col-md-6 col-sm-12">
                                                         <div class="account-form-label">
-                                                            <label>To</label>
+                                                            <label>To 1</label>
                                                         </div>                                                           
                                                         <div class="account-form-input">
                                                             <input type="date" id="to1" name="to[]">
@@ -599,7 +599,7 @@
                                             
                                             <div class="account-form-item mb-20">
                                                 <div class="account-form-label">
-                                                    <label>Qualification Obtained</label>
+                                                    <label>Qualification Obtained 1</label>
                                                 </div>
                                                 <div class="account-form-input">
                                                     <input type="text" id="qualification1" name="qualification[]" placeholder="Qualification obtained">
@@ -623,7 +623,7 @@
                                                     </div>                                                                                       
                                                     <div class="col-lg-6 col-md-6 col-sm-12">
                                                         <div class="account-form-label">
-                                                            <label>From</label>
+                                                            <label>From 2</label>
                                                         </div>                                                           
                                                         <div class="account-form-input">
                                                             <input type="date" id="from2" name="from[]">
@@ -631,7 +631,7 @@
                                                     </div>
                                                     <div class="col-lg-6 col-md-6 col-sm-12">
                                                         <div class="account-form-label">
-                                                            <label>To</label>
+                                                            <label>To 2</label>
                                                         </div>                                                           
                                                         <div class="account-form-input">
                                                             <input type="date" id="to2" name="to[]">
@@ -642,7 +642,7 @@
                                             
                                             <div class="account-form-item mb-20">
                                                 <div class="account-form-label">
-                                                    <label>Qualification Obtained</label>
+                                                    <label>Qualification Obtained 2</label>
                                                 </div>
                                                 <div class="account-form-input">
                                                     <input type="text" id="qualification2" name="qualification[]" placeholder="Qualification obtained">
@@ -666,7 +666,7 @@
                                                     </div>                                                                                       
                                                     <div class="col-lg-6 col-md-6 col-sm-12">
                                                         <div class="account-form-label">
-                                                            <label>From</label>
+                                                            <label>From 3</label>
                                                         </div>                                                           
                                                         <div class="account-form-input">
                                                             <input type="date" id="from3" name="from[]">
@@ -674,7 +674,7 @@
                                                     </div>
                                                     <div class="col-lg-6 col-md-6 col-sm-12">
                                                         <div class="account-form-label">
-                                                            <label>To</label>
+                                                            <label>To 3</label>
                                                         </div>                                                           
                                                         <div class="account-form-input">
                                                             <input type="date" id="to3" name="to[]">
@@ -685,7 +685,7 @@
                                             
                                             <div class="account-form-item mb-20">
                                                 <div class="account-form-label">
-                                                    <label>Qualification Obtained</label>
+                                                    <label>Qualification Obtained 3</label>
                                                 </div>
                                                 <div class="account-form-input">
                                                     <input type="text" id="qualification3" name="qualification[]" placeholder="Qualification obtained">
@@ -707,7 +707,7 @@
                                                     </div>                                                                                       
                                                     <div class="col-lg-6 col-md-6 col-sm-12">
                                                         <div class="account-form-label">
-                                                            <label>From</label>
+                                                            <label>From 4</label>
                                                         </div>                                                           
                                                         <div class="account-form-input">
                                                             <input type="date" id="from4" name="from[]">
@@ -715,7 +715,7 @@
                                                     </div>
                                                     <div class="col-lg-6 col-md-6 col-sm-12">
                                                         <div class="account-form-label">
-                                                            <label>To</label>
+                                                            <label>To 4</label>
                                                         </div>                                                           
                                                         <div class="account-form-input">
                                                             <input type="date" id="to4" name="to[]">
@@ -726,7 +726,7 @@
                                             
                                             <div class="account-form-item mb-20">
                                                 <div class="account-form-label">
-                                                    <label>Qualification Obtained</label>
+                                                    <label>Qualification Obtained 4</label>
                                                 </div>
                                                 <div class="account-form-input">
                                                     <input type="text" id="qualification4" name="qualification[]" placeholder="Qualification obtained">
@@ -743,7 +743,7 @@
                                             <div id="exam1">
                                                 <div class="account-form-item mb-20">
                                                     <div class="account-form-label">
-                                                        <label>Name of examination</label>
+                                                        <label>Name of examination 1</label>
                                                     </div>
                                                     <div class="account-form-input">
                                                         <input type="text" id="nameofexaminations1" name="nameofexaminations[]" placeholder="E.g School certificates:GCE, O/A level, JSS-SSS">
@@ -755,7 +755,7 @@
                                                     <div class="row"> 
                                                         <div class="col-lg-4 col-md-12 col-sm-12">
                                                             <div class="account-form-label">
-                                                                <label>Date of examination</label>
+                                                                <label>Date of examination 1</label>
                                                             </div>                                                           
                                                             <div class="account-form-input">
                                                                 <input type="date" id="dateofexamination1" name="dateofexamination[]">
@@ -763,7 +763,7 @@
                                                         </div>
                                                         <div class="col-lg-4 col-md-12 col-sm-12">
                                                             <div class="account-form-label">
-                                                                <label>Centre number</label>
+                                                                <label>Centre number 1</label>
                                                             </div>                                                           
                                                             <div class="account-form-input">
                                                                 <input type="text" id="centreno1" name="centreno[]" placeholder="Centre number">
@@ -771,7 +771,7 @@
                                                         </div>
                                                         <div class="col-lg-4 col-md-12 col-sm-12">
                                                             <div class="account-form-label">
-                                                                <label>Examination number</label>
+                                                                <label>Examination number 1</label>
                                                             </div>                                                           
                                                             <div class="account-form-input">
                                                                 <input type="text" id="examinationno1" name="examinationno[]" placeholder="Examination number">
@@ -989,7 +989,7 @@
                                             <div id="exam2">
                                                 <div class="account-form-item mb-20">
                                                     <div class="account-form-label">
-                                                        <label>Name of examination</label>
+                                                        <label>Name of examination 2</label>
                                                     </div>
                                                     <div class="account-form-input">
                                                         <input type="text" id="nameofexaminations2" name="nameofexaminations[]" placeholder="E.g School certificates:GCE, O/A level, JSS-SSS">
@@ -1001,7 +1001,7 @@
                                                     <div class="row"> 
                                                         <div class="col-lg-4 col-md-12 col-sm-12">
                                                             <div class="account-form-label">
-                                                                <label>Date of examination</label>
+                                                                <label>Date of examination 2</label>
                                                             </div>                                                           
                                                             <div class="account-form-input">
                                                                 <input type="date" id="dateofexamination2" name="dateofexamination[]">
@@ -1009,7 +1009,7 @@
                                                         </div>
                                                         <div class="col-lg-4 col-md-12 col-sm-12">
                                                             <div class="account-form-label">
-                                                                <label>Centre number</label>
+                                                                <label>Centre number 2</label>
                                                             </div>                                                           
                                                             <div class="account-form-input">
                                                                 <input type="text" id="centreno2" name="centreno[]" placeholder="Centre number">
@@ -1017,7 +1017,7 @@
                                                         </div>
                                                         <div class="col-lg-4 col-md-12 col-sm-12">
                                                             <div class="account-form-label">
-                                                                <label>Examination number</label>
+                                                                <label>Examination number 2</label>
                                                             </div>                                                           
                                                             <div class="account-form-input">
                                                                 <input type="text" id="examinationno2" name="examinationno[]" placeholder="Examination number">
@@ -1237,7 +1237,7 @@
                                             <div id="exam3">
                                                 <div class="account-form-item mb-20">
                                                     <div class="account-form-label">
-                                                        <label>Name of examination</label>
+                                                        <label>Name of examination 3</label>
                                                     </div>
                                                     <div class="account-form-input">
                                                         <input type="text" id="nameofexaminations3" name="nameofexaminations[]" placeholder="E.g School certificates:GCE, O/A level, JSS-SSS">
@@ -1249,7 +1249,7 @@
                                                     <div class="row"> 
                                                         <div class="col-lg-4 col-md-12 col-sm-12">
                                                             <div class="account-form-label">
-                                                                <label>Date of examination</label>
+                                                                <label>Date of examination 3</label>
                                                             </div>                                                           
                                                             <div class="account-form-input">
                                                                 <input type="date" id="dateofexamination3" name="dateofexamination[]">
@@ -1257,7 +1257,7 @@
                                                         </div>
                                                         <div class="col-lg-4 col-md-12 col-sm-12">
                                                             <div class="account-form-label">
-                                                                <label>Centre number</label>
+                                                                <label>Centre number 3</label>
                                                             </div>                                                           
                                                             <div class="account-form-input">
                                                                 <input type="text" id="centreno3" name="centreno[]" placeholder="Centre number">
@@ -1265,7 +1265,7 @@
                                                         </div>
                                                         <div class="col-lg-4 col-md-12 col-sm-12">
                                                             <div class="account-form-label">
-                                                                <label>Examination number</label>
+                                                                <label>Examination number 3</label>
                                                             </div>                                                           
                                                             <div class="account-form-input">
                                                                 <input type="text" id="examinationno3" name="examinationno[]" placeholder="Examination number">
@@ -1781,11 +1781,10 @@
 
         <script>
             $(document).ready(function(){
-                
+
                 getState();             
             });
             function submitApplication(){
-                         
                 var surname                     = $("#surname").val();
                 var othernames                  = $("#othernames").val();
                 var department                  = $("#department").val();
@@ -1869,6 +1868,8 @@
                 var subject14                   = $("#subject14").val();
                 var grade14                     = $("#grade14").val();
                 var subject15                   = $("#subject15").val();
+                var grade15                     = $("#grade15").val();
+                var subject16                   = $("#subject16").val();
                 var grade16                     = $("#grade16").val();
                 var subject17                   = $("#subject17").val();
                 var grade17                     = $("#grade17").val();
@@ -1918,90 +1919,410 @@
                 // Removed osun lg and signature because it should be optional.
                 if(surname == ''){
                     alert('Surname is required');
+                    $("#surname").focus();
                 }else if(othernames == ''){
                     alert('Othername is required');
+                    $("#othernames").focus();
                 }else if(paymentInformation == ''){
                     alert('Paymentinformation is required');
+                    $("#paymentInformation").focus();
                 }else if(postalAddress == ''){
                     alert('Postal address is required');
+                    $("#postaladdress").focus();
                 }else if(permanentHomeAddress == ''){
                     alert('Permanent home address is required');
+                    $("#permanenthomeaddress").focus();
                 }else if(date == ''){
                     alert('Date of birth is required');
+                    $("#dob").focus();
+                }else if(maidenname == ''){
+                    alert('Maiden name is required');
+                    $("#maidenname").focus();
+                }else if(noofchildren == ''){
+                    alert('Number of children is required');
+                    $("#noofchildren").focus();
+                }else if(parentsurname == ''){
+                    alert('Parent surname is required');
+                    $("#parentsurname").focus();
+                }else if(parentothernames == ''){
+                    alert('Parent othernames are required');
+                    $("#parentothernames").focus();
+                }else if(address == ''){
+                    alert('Parent address is required');
+                    $("#address").focus();
+                }else if(telephone == ''){
+                    alert('Telephone is required');
+                    $("#telephone").focus();
+                }else if(relationshiptoapplicant == ''){
+                    alert('Relationship to applicant is required');
+                    $("#relationshiptoapplicant").focus();
+                }else if(extracurricularactivities == ''){
+                    alert('Extracurricular activities is required');
+                    $("#extracurricularactivities").focus();
+                }else if(academichistoryreason == ''){
+                    alert('Academic history reason is required');
+                    $("#academichistoryreason").focus();
+                }else if(nameofinstitution1 == ''){
+                    alert('Name of institution 1 is required');
+                    $("#nameofinstitution1").focus();
+                }else if(from1 == ''){
+                    alert('From 1 is required');
+                    $("#from1").focus();
+                }else if(to1 == ''){
+                    alert('To 1 is required')
+                    $("#to1").focus();
+                }else if(qualification1 == ''){
+                    alert('Qualification obtained 1 is required');
+                    $("#qualification1").focus();
+                }else if(nameofinstitution2 == ''){
+                    alert('Name of institution 2 is required');
+                    $("#nameofinstitution2").focus();
+                }else if(from2 == ''){
+                    alert('From 2 is required');
+                    $("#from2").focus();
+                }else if(to2 == ''){
+                    alert('To 2 is required')
+                    $("#to2").focus();
+                }else if(qualification2 == ''){
+                    alert('Qualification obtained 2 is required');
+                    $("#qualification2").focus();
+                }else if(nameofinstitution3 == ''){
+                    alert('Name of institution 3 is required');
+                    $("#nameofinstitution3").focus();
+                }else if(from3 == ''){
+                    alert('From 3 is required');
+                    $("#from3").focus();
+                }else if(to3 == ''){
+                    alert('To 3 is required')
+                    $("#to3").focus();
+                }else if(qualification3 == ''){
+                    alert('Qualification obtained 3 is required');
+                    $("#qualification3").focus();
+                }else if(nameofinstitution4 == ''){
+                    alert('Name of institution 4 is required');
+                    $("#nameofinstitution4").focus();
+                }else if(from4 == ''){
+                    alert('From 4 is required');
+                    $("#from4").focus();
+                }else if(to4 == ''){
+                    alert('To 4 is required')
+                    $("#to4").focus();
+                }else if(qualification4 == ''){
+                    alert('Qualification obtained 4 is required');
+                    $("#qualification4").focus();
+                }else if(nameofexaminations1 == ''){
+                    alert('Name of examination 1 is required');
+                    $("#nameofexaminations1").focus();
+                }else if(dateofexamination1 == ''){
+                    alert('Date of Examination 1 is required');
+                    $("#dateofexamination1").focus();
+                }else if(centreno1 == ''){
+                    alert('Center number 1 is required');
+                    $("#centreno1").focus();
+                }else if(examinationno1 == ''){
+                    alert('Examination number 1 is required');
+                    $("#examinationno1").focus();
+                }else if(subject1 == ''){
+                    alert('Subject 1 is required');
+                    $("#subject1").focus();
+                }else if(grade1 == ''){
+                    alert('Grade 1 is required');
+                    $("#grade1").focus();
+                }else if(subject2 == ''){
+                    alert('Subject 2 is required');
+                    $("#subject2").focus();
+                }else if(grade2 == ''){
+                    alert('Grade 2 is required');
+                    $("#grade2").focus();
+                }else if(subject3 == ''){
+                    alert('Subject 3 is required');
+                    $("#subject3").focus();
+                }else if(grade3 == ''){
+                    alert('Grade 3 is required');
+                    $("#grade3").focus();
+                }else if(subject4 == ''){
+                    alert('Subject 4 is required');
+                    $("#subject4").focus();
+                }else if(grade4 == ''){
+                    alert('Grade 4 is required');
+                    $("#grade4").focus();
+                }else if(subject5 == ''){
+                    alert('Subject 5 is required');
+                    $("#subject5").focus();
+                }else if(grade5 == ''){
+                    alert('Grade 5 is required');
+                    $("#grade5").focus();
+                }else if(subject6 == ''){
+                    alert('Subject 6 is required');
+                    $("#subject6").focus();
+                }else if(grade6 == ''){
+                    alert('Grade 6 is required');
+                    $("#grade6").focus();
+                }else if(subject7 == ''){
+                    alert('Subject 7 is required');
+                    $("#subject7").focus();
+                }else if(grade7 == ''){
+                    alert('Grade 7 is required');
+                    $("#grade7").focus();
+                }else if(subject8 == ''){
+                    alert('Subject 8 is required');
+                    $("#subject8").focus();
+                }else if(grade8 == ''){
+                    alert('Grade 8 is required');
+                    $("#grade8").focus();
+                }else if(subject9 == ''){
+                    alert('Subject 9 is required');
+                    $("#subject9").focus();
+                }else if(grade9 == ''){
+                    alert('Grade 9 is required');
+                    $("#grade9").focus();
+                }else if(subject10 == ''){
+                    alert('Subject 10 is required');
+                    $("#subject10").focus();
+                }else if(grade10 == ''){
+                    alert('Grade 10 is required');
+                    $("#grade10").focus();
+                }else if(nameofexaminations2 == ''){
+                    alert('Name of examination 2 is required');
+                    $("#nameofexaminations2").focus();
+                }else if(dateofexamination2 == ''){
+                    alert('Date of Examination 2 is required');
+                    $("#dateofexamination2").focus();
+                }else if(centreno2 == ''){
+                    alert('Center number 2 is required');
+                    $("#centreno2").focus();
+                }else if(examinationno2 == ''){
+                    alert('Examination number 2 is required');
+                    $("#examinationno2").focus();
+                }else if(subject11 == ''){
+                    alert('Subject 1 is required');
+                    $("#subject11").focus();
+                }else if(grade11 == ''){
+                    alert('Grade 1 is required');
+                    $("#grade11").focus();
+                }else if(subject12 == ''){
+                    alert('Subject 2 is required');
+                    $("#subject12").focus();
+                }else if(grade12 == ''){
+                    alert('Grade 2 is required');
+                    $("#grade12").focus();
+                }else if(subject13 == ''){
+                    alert('Subject 3 is required');
+                    $("#subject13").focus();
+                }else if(grade13 == ''){
+                    alert('Grade 3 is required');
+                    $("#grade13").focus();
+                }else if(subject14 == ''){
+                    alert('Subject 4 is required');
+                    $("#subject14").focus();
+                }else if(grade14 == ''){
+                    alert('Grade 4 is required');
+                    $("#grade14").focus();
+                }else if(subject15 == ''){
+                    alert('Subject 5 is required');
+                    $("#subject15").focus();
+                }else if(grade15 == ''){
+                    alert('Grade 5 is required');
+                    $("#grade15").focus();
+                }else if(subject16 == ''){
+                    alert('Subject 6 is required');
+                    $("#subject16").focus();
+                }else if(grade16 == ''){
+                    alert('Grade 6 is required');
+                    $("#grade16").focus();
+                }else if(subject17 == ''){
+                    alert('Subject 7 is required');
+                    $("#subject17").focus();
+                }else if(grade17 == ''){
+                    alert('Grade 7 is required');
+                    $("#grade17").focus();
+                }else if(subject18 == ''){
+                    alert('Subject 8 is required');
+                    $("#subject18").focus();
+                }else if(grade18 == ''){
+                    alert('Grade 8 is required');
+                    $("#grade18").focus();
+                }else if(subject19 == ''){
+                    alert('Subject 9 is required');
+                    $("#subject19").focus();
+                }else if(grade19 == ''){
+                    alert('Grade 9 is required');
+                    $("#grade19").focus();
+                }else if(subject20 == ''){
+                    alert('Subject 10 is required');
+                    $("#subject20").focus();
+                }else if(grade20 == ''){
+                    alert('Grade 10 is required');
+                    $("#grade20").focus();
+                }else if(nameofexaminations3 == ''){
+                    alert('Name of examination 3 is required');
+                    $("#nameofexaminations3").focus();
+                }else if(dateofexamination3 == ''){
+                    alert('Date of Examination 3 is required');
+                    $("#dateofexamination3").focus();
+                }else if(centreno3 == ''){
+                    alert('Center number 3 is required');
+                    $("#centreno3").focus();
+                }else if(examinationno3 == ''){
+                    alert('Examination number 3 is required');
+                    $("#examinationno3").focus();
+                }else if(subject21 == ''){
+                    alert('Subject 1 is required');
+                    $("#subject21").focus();
+                }else if(grade21 == ''){
+                    alert('Grade 1 is required');
+                    $("#grade21").focus();
+                }else if(subject22 == ''){
+                    alert('Subject 2 is required');
+                    $("#subject22").focus();
+                }else if(grade22 == ''){
+                    alert('Grade 2 is required');
+                    $("#grade22").focus();
+                }else if(subject23 == ''){
+                    alert('Subject 3 is required');
+                    $("#subject23").focus();
+                }else if(grade23 == ''){
+                    alert('Grade 3 is required');
+                    $("#grade23").focus();
+                }else if(subject24 == ''){
+                    alert('Subject 4 is required');
+                    $("#subject24").focus();
+                }else if(grade24 == ''){
+                    alert('Grade 4 is required');
+                    $("#grade24").focus();
+                }else if(subject25 == ''){
+                    alert('Subject 5 is required');
+                    $("#subject25").focus();
+                }else if(grade25 == ''){
+                    alert('Grade 5 is required');
+                    $("#grade25").focus();
+                }else if(subject26 == ''){
+                    alert('Subject 6 is required');
+                    $("#subject26").focus();
+                }else if(grade26 == ''){
+                    alert('Grade 6 is required');
+                    $("#grade26").focus();
+                }else if(subject27 == ''){
+                    alert('Subject 7 is required');
+                    $("#subject27").focus();
+                }else if(grade27 == ''){
+                    alert('Grade 7 is required');
+                    $("#grade27").focus();
+                }else if(subject28 == ''){
+                    alert('Subject 8 is required');
+                    $("#subject28").focus();
+                }else if(grade28 == ''){
+                    alert('Grade 8 is required');
+                    $("#grade28").focus();
+                }else if(subject29 == ''){
+                    alert('Subject 9 is required');
+                    $("#subject29").focus();
+                }else if(grade29 == ''){
+                    alert('Grade 9 is required');
+                    $("#grade29").focus();
+                }else if(subject30 == ''){
+                    alert('Subject 10 is required');
+                    $("#subject30").focus();
+                }else if(grade30 == ''){
+                    alert('Grade 10 is required');
+                    $("#grade30").focus();
+                }else if(attesterfullname == ''){
+                    alert('Attester fullname is required');
+                    $("#attesterfullname").focus();
+                }else if(attesteraddress == ''){
+                    alert('Attester address is required');
+                    $("#attesteraddress").focus();
+                }else if(attesterposition == ''){
+                    alert('Attester position held is required');
+                    $("#attesterposition").focus();
+                }else{
+                    ApplicantStatus = '';
+                    if(blindApplicantStatus == false){
+
+                    }else{
+                        ApplicantStatus = 'blind';
+                    }
+                    if(deafApplicantStatus == false){   
+                    }else{
+                        ApplicantStatus = 'deaf';
+                    }
+                    if(dumbApplicantStatus == false){    
+                    }else{
+                        ApplicantStatus = 'dumb';
+                    }
+                    
+                    if(deafAndDumbApplicantStatus == false){                                
+                    }else{
+                        ApplicantStatus = 'deaf and dumb';
+                    }
+                    if(otherApplicantStatus == false){   
+                    }else{
+                        ApplicantStatus = 'others';
+                    }
+                    if(ApplicantStatus == ''){
+                        alert('Please choose from the special applicants');
+                        $("#blind").focus();
+                    }else{
+                        if(nationality == '---'){
+                            alert('Please select a valid nationality');
+                            $("#nationality").focus();
+                        }else if(maritalstatus == '---'){
+                            alert('Please select a valid marital status');
+                            $("#maritalstatus").focus(); 
+                        }else if(state_div == '---'){
+                            alert('Please select a valid state of origin');
+                            $("#state").focus(); 
+                        }else if(lga_div == '---'){
+                            alert('Please select a valid local government');
+                            $("#lga").focus();
+                        }else if(department == '---'){
+                            alert('Please select a valid department');
+                            $("#department").focus();
+                        }else if(programmes == '---'){
+                            alert('Please select a valid programme');
+                            $("#programmes").focus();
+                        }else if(course == '---'){
+                            alert('Please select a valid course');
+                            $("#course").focus();
+                        }else if(gender == '---'){
+                            alert('Please select a valid gender');
+                            $("#gender").focus();
+                        }else if(religion == '---'){
+                            alert('Please select a valid religion');
+                            $("#religion").focus();
+                        }else if(academichistory == '---'){
+                            alert('Please select yes or no');
+                            $("#academichistory").focus();
+                        }else if(declarationButton == false){
+                            alert('Confirm all information are true under declaration');
+                            $("#declaration").focus();
+                        }else{
+                            var data = $("form#account-form")[0]; 	
+                            var formData = new FormData(data);
+                            $.ajax({                                
+                                url: "app/processApplication.php",
+                                type: 'POST',
+                                data: formData,
+                                async: false,
+                                cache: false,
+                                contentType: false,
+                                processData: false,
+                                success: function (e){  
+                                    // alert(e);
+                                    if(e == 2){
+                                        alert("Record sent successfully");
+                                        ClearFields();
+                                    }else if (e == -2){
+                                        alert("Error sending records");
+                                    }else {
+                                        alert("Something went wrong, please contact the system admininstrator");
+                                    }
+                                }
+                            });	
+                        }
+                    }
+                        
                 }
-                // if( ||  ||  ||  == '' || date == '' || gender == '' || nationality == '' || maritalstatus == '' || state_div == '' || lga_div == '' || maidenname == '' || noofchildren == '' || religion == '' || parentsurname == '' || parentothernames == '' || address == '' || telephone == '' || relationshiptoapplicant == '' || extracurricularactivities == ''  || academichistory == '' || academichistoryreason == '' || nameofinstitution1 == '' || from1 == '' || to1 == '' || qualification1 == '' || nameofinstitution2 == '' || from2 == '' || to2 == '' || qualification2 == '' || nameofinstitution3 == '' || from3 == '' || to3 == '' || qualification3 == '' || nameofinstitution4 == '' || from4 == '' || to4 == '' || qualification4 == '' || nameofexaminations1 == '' || dateofexamination1 == '' || centreno1 == '' || examinationno1 == '' || subject1 == '' || subject2 == '' || grade2 == '' ||  subject3 == '' || grade3 == '' || subject4 == '' || grade4 == '' || subject5 == '' || grade5 == '' || subject6 == '' || grade6 == '' || subject7 == '' || grade7 == '' || subject8 == '' || grade8 == '' || subject9 == '' || grade9 == '' || subject10 == '' || grade10 == '' || nameofexaminations2 == '' || dateofexamination2 == '' || centreno2 == '' || examinationno2 == '' || subject11 == '' || grade11 == '' || subject12 == '' || grade12 == '' || subject13 == '' || grade13 == '' || subject14 == '' || grade14 == '' || subject15 == '' || grade16 == '' || subject17 == '' || grade17 == '' || subject18 == '' || grade18 == '' || subject19 == '' || grade19 == '' || subject20 == '' || grade20 == '' || nameofexaminations3 == '' || dateofexamination3 == '' || centreno3 == '' || examinationno3 == '' || subject21 == '' || grade21 == '' || subject22 == '' || grade22 == '' || subject23 == '' || grade23 == '' || subject24 == '' || grade24 == '' || subject25 == '' || grade25 == '' || subject26 == '' || grade26 == '' || subject27 == '' || grade27 == '' || subject28 == '' || grade28 == '' || subject29 == '' || grade29 == '' || subject30 == '' || attesterfullname == '' || attesteraddress == '' || attesterposition == '' ||  == '' ||  == '' ||  == '' || grade1 == ''){
-                //     alert('Please fill up the form');
-                // }else{
-                //     ApplicantStatus = '';
-                //     if(blindApplicantStatus == false){
-                //     }else{
-                //         ApplicantStatus = 'blind';
-                //     }
-                //     if(otherApplicantStatus == false){   
-                //     }else{
-                //         ApplicantStatus = 'others';
-                //     }
-                //     if(deafAndDumbApplicantStatus == false){                     
-                //     }else{
-                //         ApplicantStatus = 'deaf and dumb';
-                //     }
-
-                //     if(dumbApplicantStatus == false){
-                        
-                //     }else{
-                //         ApplicantStatus = 'dumb';
-                //     }
-
-                //     if(deafApplicantStatus == false){
-                        
-                //     }else{
-                //         ApplicantStatus = 'deaf';
-                //     }
-
-                //     if(ApplicantStatus == ''){
-                //         alert('Please choose from the special applicants');
-                //     }else{
-                //         if(nationality == '---'){
-                //             alert('Please select a valid nationality');
-                //         }else if(maritalstatus == '---'){
-                //             alert('Please select a valid marital status');
-                //         }else if(department == '---'){
-                //             alert('Please select a valid department');
-                //         }else if(programmes == '---'){
-                //             alert('Please select a valid programme');
-                //         }else if(course == '---'){
-                //             alert('Please select a valid course');
-                //         }else if(religion == '---'){
-                //             alert('Please select a valid religion');
-                //         }else if(declarationButton == false){
-                //             alert('Confirm all information are true under declaration');
-                //         }else{
-                //             var data = $("form#account-form")[0]; 	
-                //             var formData = new FormData(data);
-                //             $.ajax({                                
-                //                 url: "app/processApplication.php",
-                //                 type: 'POST',
-                //                 data: formData,
-                //                 async: false,
-                //                 cache: false,
-                //                 contentType: false,
-                //                 processData: false,
-                //                 success: function (e){  
-                //                     // alert(e);
-                //                     if(e == 2){
-                //                         alert("Record sent successfully");
-                //                         ClearFields();
-                //                     }else if (e == -2){
-                //                         alert("Error sending records");
-                //                     }else {
-                //                         alert("Something went wrong, please contact the system admininstrator");
-                //                     }
-                //                 }
-                //             });	
-                //         }
-                //     }
-                        
-                // }
             }
 
             function ClearFields(){
@@ -2129,7 +2450,7 @@
                 $("#attesterposition").val('');
             }
             function getState(){
-                alert(4);
+    
                 $.get("app/getstates.php").done(function(data){
                     var select = ""; var option = "";
                     select +="<select id='state' name='state' class='form-control' style='height:48px;margin-bottom:10px;' onclick='getLGAs(this.value)' required/>";
